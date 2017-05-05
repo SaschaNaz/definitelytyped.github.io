@@ -105,6 +105,6 @@ Contributions are welcome! Check the website [for more info](http://definitelyty
 
 ## License
 
-Copyright (c) 2014 DefinitelyTyped
+Copyright (c) 2017 DefinitelyTyped
 
 Licensed under the MIT license.
